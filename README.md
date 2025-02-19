@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Vanzel Dsilva
-# <center>A passionate Software developer
 
+# A passionate Software developer
 🌱 I’m currently learning Web Development Tools and Web Design<br>👯 I’m looking to collaborate on Open Source Projects<br>👨‍💻 All of my projects are available at https://github.com/vanzel27<br>💬 Ask me about New Technologies<br>📫 How to reach me vdsilva@clarku.edu
 
 
