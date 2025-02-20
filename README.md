@@ -1,9 +1,17 @@
-<h1 align="center">Hi 👋, I'm Vanzel Dsilva</h1>
+## Hi 👋, I'm Vanzel Dsilva
 <h3 align="center">A passionate Software developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanzel27&label=Profile%20views&color=0e75b6&style=flat" alt="vanzel27" /> </p>
 
 - 🔭 I’m currently learning **Web Development Tools and Web Design**
 
+- 💬 Ask me about **New Technologies**
+
 - 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 👨‍💻 All of my projects are available at **https://github.com/vanzel27**
+
+- 📫 How to reach me **vdsilva@clarku.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
