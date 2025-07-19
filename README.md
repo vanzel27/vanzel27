@@ -1,5 +1,3 @@
-vanzeldsilva / README.md
-
 **Hi, there! 👋**
 
 **My name is Vanzel D'silva and I’m a Computer Science grad student at Clark University with prior experience as a Software Engineer at Gbytes and QA Tester at Montran. I enjoy building full stack web applications with **JavaScript**, **Java**, **React**, and **Node.js**, and I’m passionate about improving performance and user experience.**
