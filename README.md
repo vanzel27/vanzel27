@@ -1,18 +1,9 @@
 vanzeldsilva / README.md
 
-# Hi, there! 👋
+Hi, there! 👋  
+My name is Vanzel D'silva and I’m a Computer Science grad student at Clark University with prior experience as a Software Engineer at Gbytes and QA Tester at Montran. I enjoy building full stack web applications with **JavaScript**, **Java**, **React**, and **Node.js**, and I’m passionate about improving performance and user experience.
 
-My name is Vanzel D'silva and I’m a passionate Computer Science graduate student at Clark University, with previous industry experience as a QA Tester at Montran and a Software Engineer at Gbytes. I specialize in frontend development using **Ruby on Rails** and **JavaScript Hotwire**, and I enjoy creating sleek, high-performing applications.
+I’m always exploring new tools, writing clean code, and learning through hands-on projects.  
+I hope to keep growing as a developer. Let’s connect!
 
-I’m deeply interested in crafting meaningful user experiences, and outside of work, you’ll often find me watching anime, playing piano, or brushing up on my Japanese!
-
----
-
-I’m currently sharpening my skills in full stack development and data visualization. Let’s connect and build something awesome!
-
-### 💻 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
----
-
-_“Striving for clean code, better design, and lifelong learning.”_
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,java,c,cpp,git,mongodb,tailwind,py,react,rails,selenium)](https://skillicons.dev)
